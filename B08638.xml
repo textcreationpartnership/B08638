@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of  Mr. John Starkey he being one of the Grand Jury for the county Palatine of Chester, at the Grand Sessions or Assizes held for that county in anno 1683, did with Sir Thomas Grosvenor Bar.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08638</idno>
+            <idno type="STC">Wing C957AA</idno>
+            <idno type="STC">ESTC R173537</idno>
+            <idno type="EEBO-CITATION">64551032</idno>
+            <idno type="OCLC">ocm 64551032</idno>
+            <idno type="VID">184419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184419)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of  Mr. John Starkey he being one of the Grand Jury for the county Palatine of Chester, at the Grand Sessions or Assizes held for that county in anno 1683, did with Sir Thomas Grosvenor Bar.</title>
+                  <author>Chester (England). Grand Jury.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Starkey, John, 17th cent --  Trials, litigation, etc.</term>
+               <term>Grosvenor, Thomas, --  Sir, 1655 or 6-1700 --  Trials, litigation, etc.</term>
+               <term>Trials (Libel) --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184419:1"/>
+            <head>The CASE of Mr. John Starkey.</head>
+            <p>HE being one of the <hi>Grand Jury</hi> for the County Palatine of <hi>Cheſter,</hi> at the <hi>Grand Seſſions</hi> or <hi>Aſſizes</hi> held for that County <hi>in Anno</hi> 1683, did with Sir <hi>Thomas Groſvenor</hi> Bar. their Foreman, and the reſt of the <hi>Grand Jury,</hi> upon Oath make a Preſentment to that Court of the Fears and Apprehenſions in their County, occaſioned by unuſual Meetings of great numbers of People, providing themſelves with Stores of Arms, and riding and going armed about the Country, to the terror of the King's People, and diſtur<g ref="char:EOLhyphen"/>bance of the publick Peace. Whereupon the ſaid <hi>Jury</hi> prayed the Court, That Security for the Peace might be given by the Earl of <hi>Macclesfield</hi> and others there<g ref="char:EOLhyphen"/>in named: For which Preſentment the ſaid Earl brought his Action againſt Mr. <hi>Starkey,</hi> grounded upon the Statute <hi>de Scandalis Magnatum;</hi> and to this he Plead<g ref="char:EOLhyphen"/>ed, <hi>That he did nothing, but as a Grand-Jury Man, in purſuance of the Articles gi<g ref="char:EOLhyphen"/>ven them in Charge, and according to their Evidence againſt the ſaid Earl,</hi> and de<g ref="char:EOLhyphen"/>nied that he was Guilty of the Contrivance or Publication of this Preſentment in any place, or in any other manner, than as one of the <hi>Grand Jury</hi> in the Court of <hi>Grand Seſſions.</hi> Which Cauſe depended long in the Court of <hi>Exchequer,</hi> upon the Earl's <hi>Demurror</hi> to this Plea; and after ſeveral Arguments therein, <hi>Judgment</hi> was given for the Defendant <hi>Starkey;</hi> to Reverſe which <hi>Judgment,</hi> the Earl hath Sued his <hi>Writ of Error.</hi>
+            </p>
+            <p>The <hi>Judgment</hi> in the <hi>Exchequer</hi> was, by the unanimous Opinion of the whole Court, given for the Defendant, in regard the Matters contained in the Preſentment were Matters proper for the <hi>Grand Jury</hi> to enquire of, and preſent, to ſecure the Peace of the Country, and good ground to require Sureties of the Peace. That the <hi>Grand Jury</hi> were the proper perſons to enquire of and preſent ſuch Actions; and that it was done in a proper Judicature at the <hi>Grand Seſſions,</hi> where the Judges had proper Connizance of ſuch Matters.</p>
+            <p>That in ſuch Caſes <hi>Grand-Jury</hi> Men have ever been held to be under the Pro<g ref="char:EOLhyphen"/>tection of the Law, and not liable to Suits for their Preſentments, being in a Court of Juſtice, and in order to preſerve the publick Peace.</p>
+            <p>And whether the Fact were true or falſe will not alter the Caſe, being accor<g ref="char:EOLhyphen"/>ding to the <hi>Evidence</hi> given before them; and were the Law otherwiſe, it would deter all Men of Quality and Eſtate from Serving their Country with Freedom and Chearfulneſs, if their Miſinformation from others, or their own Miſtakes in what they preſent only as <hi>Grand-Jury</hi> Men, ſhould ſubject them to private Actions.</p>
+            <p>This <hi>Judgment</hi> given for Mr. <hi>Starkey</hi> was grounded upon good Reſolutions, formerly given in Caſes of the like nature; and therefore it is hoped this <hi>Judgment</hi> ſhall ſtand for Protection of <hi>Grand-Jury</hi> Men, in what they do in Execution of that Charge, and to prevent the Multiplicity of Actions which will otherwiſe enſue, not only againſt this Defendant, by all others required to find Sureties of the Peace upon this Preſentment, but alſo againſt every one of that <hi>Grand Jury,</hi> and the <hi>Grand-Jury</hi> Men of other Counties in like Caſes.</p>
+            <pb facs="tcp:184419:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
